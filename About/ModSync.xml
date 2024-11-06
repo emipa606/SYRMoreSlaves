@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModSyncNinjaData>
-  <ID>d32b03ba-96c7-422c-88cf-f69a8228e93d</ID>
-  <ModName>[SYR] More Slaves</ModName>
-  <Version>1.2.0</Version>
+  <ID>a2b936da-7a32-4ae1-bc52-6dbb471b2cf7</ID>
+  <ModName>[SYR] More Slaves (Continued)</ModName>
+  <Version>1.5.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
-    <Owner>Syrchalis</Owner>
-    <Project>https://github.com/Syrchalis/MoreSlaves</Project>
+    <Owner>emipa606</Owner>
+    <Project>SYRMoreSlaves</Project>
     <AboutDir>About</AboutDir>
-    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
+
+
+
+

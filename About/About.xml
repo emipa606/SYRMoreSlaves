@@ -1,14 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>[SYR] More Slaves</name>
-    <author>Syrchalis</author>
-    <url>https://ludeon.com/forums/index.php?topic=43449.0</url>
-    <supportedVersions>
-        <li>1.0</li>
-        <li>1.1</li>
-        <li>1.2</li>
-        <li>1.3</li>
-    </supportedVersions>
-    <description>Adds additional slaves to all slave-carrying traders. Below population cap they will offer more slaves. At or above the population cap they will offer fewer slaves, but still some, unlike unmodded Rimworld.</description>
-    <packageId>syrchalis.moreslaves</packageId>
+  <name>[SYR] More Slaves (Continued)</name>
+  <packageId>Mlie.SYRMoreSlaves</packageId>
+  <author>Syrchalis</author>
+  <url>https://github.com/emipa606/SYRMoreSlaves</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of Syrchalis mod https://steamcommunity.com/sharedfiles/filedetails/?id=2021510577
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/SYRMoreSlaves][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[h2][b]Adds additional slaves to all slave-carrying traders and bases[/b][/h2]
+
+
+[img]https://i.imgur.com/s8csNp7.png[/img]
+
+Increases the base amount of slaves from 0-2 to 2-4 for all vanilla traders, respecting the population limit. Additionally adds slaves above the population limit to all slave carrying traders depending on the mod setting. Default 3-5.
+
+This is a re-write of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1541360626]More Slaves[/url] by Ziehn.
+
+
+
+[img]https://i.imgur.com/x3y72Eg.png[/img]
+
+[h3][b]Savegames:[/b][/h3]
+[list][*]Adding: Safe
+[*]Removing: Safe
+[/list]
+
+[h3][b]Incompatibilities:[/b][/h3]
+[list][*]None
+[/list]
+
+
+
+[img]https://i.imgur.com/1YxHVGs.png[/img]
+
+[quote][h3][b][url=https://steamcommunity.com/workshop/filedetails/?id=1474000866]Syrchalis' Mods[/url][/b][/h3][/quote]
+Collection of my mods for RimWorld
+
+If you enjoy my mods consider dropping me a dime:
+[url=https://ko-fi.com/A0A0IJ2R][img]https://i.imgur.com/QMURwKz.png[/img][/url][url=https://www.patreon.com/syrchalis][img]https://i.imgur.com/NNM7mbP.png[/img][/url]
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/][img]https://img.shields.io/github/v/release/emipa606/SYRMoreSlaves?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  traders, slaves</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>

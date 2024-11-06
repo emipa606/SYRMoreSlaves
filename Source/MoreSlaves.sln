@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreSlaves", "MoreSlaves.csproj", "{5970ED27-F30C-4E4A-BB84-E70574390B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreSlaves", "MoreSlaves\MoreSlaves.csproj", "{0718619E-7851-4EDD-A1D1-BE833CAFF00D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5970ED27-F30C-4E4A-BB84-E70574390B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5970ED27-F30C-4E4A-BB84-E70574390B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5970ED27-F30C-4E4A-BB84-E70574390B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5970ED27-F30C-4E4A-BB84-E70574390B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0718619E-7851-4EDD-A1D1-BE833CAFF00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0718619E-7851-4EDD-A1D1-BE833CAFF00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0718619E-7851-4EDD-A1D1-BE833CAFF00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0718619E-7851-4EDD-A1D1-BE833CAFF00D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {509D7CD6-64C6-4A8B-95B0-D24F57F6B91F}
+		SolutionGuid = {70edf796-ac5b-4d15-bf51-23a967d9916f}
 	EndGlobalSection
 EndGlobal
