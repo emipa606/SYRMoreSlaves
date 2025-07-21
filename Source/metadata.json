@@ -7,5 +7,12 @@
     " traders",
     "slaves"
   ],
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": false,
+  "Assemblies": true,
+  "LinesOfCode": 4774,
+  "LinesOfXML": 1162,
+  "CodeBaseSize": 61,
+  "LastXmlCleaning": "2025-07-21T21:22:06.9938985+02:00"
 }
