@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Информация о версии мода -->
+  <MoreSlavesCurrentModVersion>Установленная версия мода: {0}</MoreSlavesCurrentModVersion>
+  <!-- Заголовок настроек -->
+  <MoreSlavesSettingsLabel>More Slaves</MoreSlavesSettingsLabel>
+  <!-- Настройки количества рабов -->
+  <MoreSlavesSettingSlaveCount>Дополнительное количество рабов</MoreSlavesSettingSlaveCount>
+  <MoreSlavesSettingsSlaveCountTooltip>Количество рабов, которое будет добавлено к обычному числу рабов, имеющихся у торговцев</MoreSlavesSettingsSlaveCountTooltip>
+</LanguageData>
