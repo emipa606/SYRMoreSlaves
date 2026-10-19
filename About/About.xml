@@ -12,28 +12,29 @@
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of Syrchalis mod https://steamcommunity.com/sharedfiles/filedetails/?id=2021510577
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/SYRMoreSlaves][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/SYRMoreSlaves][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
-        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToRemove.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 [h2][b]Adds additional slaves to all slave-carrying traders and bases[/b][/h2]
 
 
-[img]https://i.imgur.com/s8csNp7.png[/img]
+[img]https://img.litet.net/s8csNp7.png[/img]
 
 Increases the base amount of slaves from 0-2 to 2-4 for all vanilla traders, respecting the population limit. Additionally adds slaves above the population limit to all slave carrying traders depending on the mod setting. Default 3-5.
 
@@ -41,7 +42,7 @@ This is a re-write of [url=https://steamcommunity.com/sharedfiles/filedetails/?i
 
 
 
-[img]https://i.imgur.com/x3y72Eg.png[/img]
+[img]https://img.litet.net/x3y72Eg.png[/img]
 
 [h3][b]Savegames:[/b][/h3]
 [list][*]Adding: Safe
@@ -54,22 +55,22 @@ This is a re-write of [url=https://steamcommunity.com/sharedfiles/filedetails/?i
 
 
 
-[img]https://i.imgur.com/1YxHVGs.png[/img]
+[img]https://img.litet.net/1YxHVGs.png[/img]
 
 [quote][h3][b][url=https://steamcommunity.com/workshop/filedetails/?id=1474000866]Syrchalis' Mods[/url][/b][/h3][/quote]
 Collection of my mods for RimWorld
 
-[img]https://i.imgur.com/PwoNOj4.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3361231919][img]https://img.shields.io/github/v/release/emipa606/SYRMoreSlaves?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  traders, slaves</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3361231919][img]https://img.shields.io/github/v/release/emipa606/SYRMoreSlaves?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | traders, slaves</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>

@@ -10,7 +10,7 @@ public class StockGenerator_Slaves_IgnorePopCap : StockGenerator
 {
     public PawnKindDef slaveKindDef;
 
-    public override IEnumerable<Thing> GenerateThings(PlanetTile planetTile, Faction faction = null)
+    public override IEnumerable<Thing> GenerateThings(PlanetTile forTile, Faction faction = null)
     {
         var count = MoreSlaves.Settings.SlaveCount.RandomInRange;
         for (var i = 0; i < count; i++)
@@ -25,7 +25,7 @@ public class StockGenerator_Slaves_IgnorePopCap : StockGenerator
                 ? DevelopmentalStage.Child | DevelopmentalStage.Adult
                 : DevelopmentalStage.Adult;
             var request = new PawnGenerationRequest(slaveKindDef ?? PawnKindDefOf.Slave, result,
-                PawnGenerationContext.NonPlayer, planetTile, false, false, false, true, false, 1f, !trader.orbital,
+                PawnGenerationContext.NonPlayer, forTile, false, false, false, true, false, 1f, !trader.orbital,
                 true,
                 false, true, true, false, false, false, false, 0f, 0f, null, 1f, null, null, null, null, null, null,
                 null, null, null, null, null, null, false, false, false, false, null, null, null, null, null, 0f,
